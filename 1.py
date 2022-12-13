@@ -24,7 +24,7 @@ def line(image: tga.Image, x1:int, y1:int, x2:int, y2:int, color: tga.Color):
 
 black = tga.Color(0, 0, 0)
 white = tga.Color(255, 255, 255)
-red = tga.Color(255, 0, 0)
+red = tga.Color(255, 0, 0) 
 
 im = tga.Image(20, 20, black)
 
